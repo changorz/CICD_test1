@@ -9,7 +9,7 @@ public class TestWebController {
 
     @GetMapping("/hello")
     public String getHello(){
-        return "hello word6666";
+        return "hello word6666 ";
     }
 
 
