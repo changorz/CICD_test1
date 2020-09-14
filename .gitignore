@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+/test/
+.gitignore
+
 ### STS ###
 .apt_generated
 .classpath
