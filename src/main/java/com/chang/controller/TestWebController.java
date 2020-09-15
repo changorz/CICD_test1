@@ -9,7 +9,12 @@ public class TestWebController {
 
     @GetMapping("/hello")
     public String getHello(){
-        return "hello word66667!";
+        return "hello word";
+    }
+
+    @GetMapping("/t1")
+    public String getT1(){
+        return "Accpet";
     }
 
 
